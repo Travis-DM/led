@@ -10,7 +10,7 @@ bool ledEN3(void);
 
 
 #define numled 64
-#define pin 17
+#define ledpin 17
 
 
 
